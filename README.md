@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AquaBx and I'm 18 years old.
+- 👋 Hi, I’m Tom (aka AquaBx) and I'm 18 years old.
 - 👀 I’m interested in sciences, technologies, space ...
 - 🌱 I’m currently learning html, css, js, php, python.
 - 📫 How to reach me : tom.chauvel@hotmail.com
