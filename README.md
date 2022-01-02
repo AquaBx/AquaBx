@@ -6,11 +6,11 @@
 - My codepen : https://codepen.io/AquaBx/pens/public
 
 
-![](https://img.shields.io/badge/HTML-✔-orange?logo=html5)
-![](https://img.shields.io/badge/CSS-✔-blue?logo=css3)
-![](https://img.shields.io/badge/JavaScript-✔-yellow?logo=javascript)
-![](https://img.shields.io/badge/Python-✔-yellow?logo=python)
-![](https://img.shields.io/badge/PHP-✔-blue?logo=php)
+![](https://img.shields.io/badge/HTML-✔-e34f26?logo=html5)
+![](https://img.shields.io/badge/CSS-✔-f5f5f5?logo=css3)
+![](https://img.shields.io/badge/JavaScript-✔-f7df1e?logo=javascript)
+![](https://img.shields.io/badge/Python-✔-3776ab?logo=python)
+![](https://img.shields.io/badge/PHP-✔-777bb4?logo=php)
 
 <!---
 AquaBx/AquaBx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
