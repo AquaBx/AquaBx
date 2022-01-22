@@ -7,7 +7,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=aquabx&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=aquabx&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=aquabx&theme=tokyonight | height=195)
 
 
 <!---
