@@ -2,7 +2,7 @@
 - 👀 I’m interested in sciences, technologies, space ...
 - 📫 How to reach me : tom.chauvel@hotmail.com
 
-- My website : https://aquabx.ovh
+- My website : https://www.aquabx.ovh
 - My codepen : https://codepen.io/AquaBx/pens/public
 - My discord : AquaBx#1655
 
