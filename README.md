@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=markdown,ts,js,html,css,py,cpp,java,php,zig,ocaml" height="40" alt="ocaml logo"  />
+  <img src="https://skillicons.dev/icons?i=markdown,ts,js,html,css,py,cpp,java,php,kotlin,zig,ocaml" height="40" alt="ocaml logo"  />
 </div>
 
 ###
