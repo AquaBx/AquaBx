@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/dark?icons=windows11,apple,linux,android" height="40" alt="os logo"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=windows11,apple,linux,android" height="40" alt="os logo"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/dark?icons=markdown,typescript,javascript,html5,css3,python,cplusplus,java,php,kotlin,zig,ocaml" height="40" alt="ocaml logo"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=markdown,typescript,javascript,html5,css3,python,cplusplus,java,php,kotlin,zig,ocaml" height="40" alt="ocaml logo"  />
 </div>
 
 ###
@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/dark?icons=bun,nodejs,cmake,maven,meson" height="40" alt="Packages"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=bun,nodejs,cmake,maven,meson" height="40" alt="Packages"  />
 </div>
 
 ###
@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/dark?icons=mysql,postgresql,sqlite,amazonwebservices,dynamodb" height="40" alt="databases"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=mysql,postgresql,sqlite,amazonwebservices,dynamodb" height="40" alt="databases"  />
 </div>
 
 ###
@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/dark?icons=svelte,vuejs,angular,react,astro,tauri,flutter,nestjs,vite,tailwindcss,pytorch,opencv,numpy,sdl" height="40" alt="Frameworks"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=svelte,vuejs,angular,react,astro,tauri,flutter,nestjs,vite,tailwindcss,pytorch,opencv,numpy,sdl" height="40" alt="Frameworks"  />
 </div>
 
 ###
@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/dark?icons=vscode,webstorm,intellij,pycharm,clion,androidstudio" height="40" height="40" alt="editors"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=vscode,webstorm,intellij,pycharm,clion,androidstudio" height="40" height="40" alt="editors"  />
 </div>
 
 ###
@@ -109,7 +109,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/dark?icons=docker,github,figma,obsidian,notion,git,google" height="40" alt="tools"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=docker,github,figma,obsidian,notion,git,google" height="40" alt="tools"  />
 </div>
 
 ###
