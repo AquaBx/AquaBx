@@ -116,8 +116,8 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display:flex; justify-content: space-between;">
   
-<img alt="" src="https://github-readme-stats-tom-chauvels-projects.vercel.app/api?username=aquabx&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&exclude_repo=mesa">
-<img alt="" src="https://github-readme-stats-tom-chauvels-projects.vercel.app/api/top-langs?username=aquabx&theme=tokyonight&exclude_repo=mesa">
+<img alt="" src="https://aquabx-github-readme-stats.vercel.app/api?username=aquabx&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+<img alt="" src="https://aquabx-github-readme-stats.vercel.app/api/top-langs?username=aquabx&theme=tokyonight">
 
 </div>
 
