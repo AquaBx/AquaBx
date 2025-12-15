@@ -1,27 +1,13 @@
-<!---
-AquaBx/AquaBx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hey 👋</h1>
+<div align="center">
+    <h1>Hi 👋!</h1>
 
-###
+  <p>
+      <a href="https://www.aquabx.ovh" target="_blank">🌐 My website</a> 
+      &nbsp;&nbsp;&middot;&nbsp;&nbsp; 
+      <a href="https://github.com/AquaBxSchool" target="_blank">📚 Sschool projects</a>
+  </p>
 
-<a href="https://www.aquabx.ovh">My website</a>
-<a href="https://github.com/AquaBxSchool">All my school projects</a>
-
-###
-
-<h2 align="left">Platform that I code for</h2>
-
-###
-
-<div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/icon?icons=windows11,apple,linux,android" height="40" alt="os logo"  />
 </div>
-
-###
-
-<p align="left">I have a Windows Desktop, a Macbook Air, a Surface Pro, an Android Phone and a Raspberry PI. So that's the reason :)</p>
 
 ###
 
@@ -35,26 +21,12 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">Sorted by mastery ( There is not a lot to learn for markdown :) )</p>
-
-###
-
-<h2 align="left">Package manager</h2>
-
-###
-
-<div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/icon?icons=bun,nodejs,cmake,maven,meson" height="40" alt="Packages"  />
-</div>
-
-###
-
 <h2 align="left">Cloud and Databases I have used</h2>
 
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/icon?icons=mysql,postgresql,sqlite,amazonwebservices,dynamodb" height="40" alt="databases"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=postgresql,sqlite,mongodb,dynamodb" height="40" alt="databases"  />
 </div>
 
 ###
@@ -69,22 +41,12 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h2 align="left">Code editors that I use</h2>
-
-###
-
-<div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/icon?icons=vscode,webstorm,intellij,pycharm,clion,androidstudio" height="40" height="40" alt="editors"  />
-</div>
-
-###
-
 <h2 align="left">Tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://gitprofileicons.vercel.app/api/icon?icons=docker,github,figma,obsidian,notion,git,google" height="40" alt="tools"  />
+  <img src="https://gitprofileicons.vercel.app/api/icon?icons=docker,github,figma,notion,git" height="40" alt="tools"  />
 </div>
 
 ###
