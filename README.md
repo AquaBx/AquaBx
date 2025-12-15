@@ -2,37 +2,12 @@
 AquaBx/AquaBx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="left">Hey 👋</h1>
+<h1 align="center">Hey 👋</h1>
 
 ###
-
-<p align="left">I’m Tom (aka AquaBx) and I'm 21 years old.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning at ESIR, University of Rennes<br>👀 I’m interested in sciences, technologies, space ...</p>
 
 <a href="https://www.aquabx.ovh">My website</a>
-
 <a href="https://github.com/AquaBxSchool">All my school projects</a>
-
-###
-
-<div align="center">
-  <a href="https://fr.linkedin.com/in/tom-chauvel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/163696573686087680" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://codepen.io/AquaBx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-</div>
 
 ###
 
