@@ -50,11 +50,9 @@
 </div>
 
 ###
-
-<div style="display:flex; justify-content: space-between;">
-  
-<img alt="" src="https://aquabx-github-readme-stats.vercel.app/api?username=aquabx&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-<img alt="" src="https://aquabx-github-readme-stats.vercel.app/api/top-langs?username=aquabx&theme=tokyonight">
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AquaBx&theme=vue" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AquaBx&theme=vue" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AquaBx&theme=vue&utcOffset=1" width="32%" />
 </div>
 
